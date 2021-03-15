@@ -1,0 +1,16 @@
+export const enum CharacteristicDataTypes {
+    Int8 = 'int8',
+    Int8Array = 'int8Array',
+    Uint8 = 'uint8',
+    Uint8Array = 'uint8Array',
+    Int16 = 'int16',
+    Int16Array = 'int16Array',
+    Uint16 = 'uint16',
+    Uint16Array = 'uint16Array',
+    Int32 = 'int32',
+    Int32Array = 'int32Array',
+    Float32 = 'float32',
+    Float32Array = 'float32Array',
+    Hexstring = 'hexstring',
+    String = 'string',
+}
